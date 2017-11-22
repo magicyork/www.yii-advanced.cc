@@ -1,0 +1,4 @@
+终止批处理操作吗(Y/N)? 
+yii hello/httpsqs-slave-daemon -m="wuwei" -s="wuwei_s"  
+yii hello/httpsqs-master-daemon -m="wuwei" -s="wuwei_s" 
+composer require "magicyork/httpsqs:1.0" 
